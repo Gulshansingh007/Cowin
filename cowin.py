@@ -1,4 +1,4 @@
-import requests #can be installed using:  pip install requests
+import requests
 
 PINCODE = "0"
 while len(PINCODE) != 6:
